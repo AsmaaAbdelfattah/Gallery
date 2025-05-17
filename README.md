@@ -43,5 +43,6 @@ A simple SwiftUI gallery app that displays images in a grid using `ScrollView` a
 ---
 ## Screenshots
 
-![WhatsApp Image 2025-05-16 at 21 50 57](https://github.com/user-attachments/assets/af388cd1-cc99-48eb-a209-eccbbd733efd)
+![WhatsApp Image 2025-05-17 at 04 22 57](https://github.com/user-attachments/assets/e81c58f5-f812-4d17-91ff-a350827c4057)
+
 
